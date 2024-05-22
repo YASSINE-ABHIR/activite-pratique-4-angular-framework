@@ -1,0 +1,340 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "name": "Server",
+      "price": 15000,
+      "quantity": 2,
+      "available": false,
+      "selected": false
+    },
+    {
+      "id": "2",
+      "name": "WorkStation",
+      "price": 17000,
+      "quantity": 20,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "3",
+      "name": "Server",
+      "price": 25000,
+      "quantity": 6,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "4",
+      "name": "Server",
+      "price": 150000,
+      "quantity": 0,
+      "available": false,
+      "selected": false
+    },
+    {
+      "id": "5",
+      "name": "iMac",
+      "price": 35000,
+      "quantity": 7,
+      "available": false,
+      "selected": false
+    },
+    {
+      "id": "6",
+      "name": "Mac Pro",
+      "price": 130000,
+      "quantity": 1,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "7",
+      "name": "PS5",
+      "price": 8500,
+      "quantity": 4,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "8",
+      "name": "Xbox One",
+      "price": 7500,
+      "quantity": 2,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "9",
+      "name": "Work Station",
+      "price": 23000,
+      "quantity": 23,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "10",
+      "name": "Smart Phone",
+      "price": 9900,
+      "quantity": 10,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "11",
+      "name": "Server",
+      "price": 15000,
+      "quantity": 2,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "12",
+      "name": "WorkStation",
+      "price": 17000,
+      "quantity": 20,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "13",
+      "name": "Server",
+      "price": 25000,
+      "quantity": 6,
+      "available": false,
+      "selected": true
+    },
+    {
+      "id": "14",
+      "name": "SmartPhone",
+      "price": 7000,
+      "quantity": 13,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "15",
+      "name": "Server",
+      "price": 150000,
+      "quantity": 0,
+      "available": false,
+      "selected": true
+    },
+    {
+      "id": "16",
+      "name": "iMac",
+      "price": 35000,
+      "quantity": 7,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "17",
+      "name": "Mac Pro",
+      "price": 130000,
+      "quantity": 1,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "18",
+      "name": "PS5",
+      "price": 8500,
+      "quantity": 4,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "19",
+      "name": "Xbox One",
+      "price": 7500,
+      "quantity": 2,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "20",
+      "name": "Steam Deck",
+      "price": 7500,
+      "quantity": 3,
+      "available": false,
+      "selected": false
+    },
+    {
+      "id": "21",
+      "name": "Work Station",
+      "price": 23000,
+      "quantity": 23,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "22",
+      "name": "Smart Phone",
+      "price": 8000,
+      "quantity": 10,
+      "available": false,
+      "selected": true
+    },
+    {
+      "id": "23",
+      "name": "PC Gamer",
+      "price": 33000,
+      "quantity": 10,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "24",
+      "name": "Server",
+      "price": 15000,
+      "quantity": 2,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "25",
+      "name": "WorkStation",
+      "price": 17000,
+      "quantity": 20,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "26",
+      "name": "Server",
+      "price": 25000,
+      "quantity": 6,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "27",
+      "name": "SmartPhone",
+      "price": 7000,
+      "quantity": 13,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "28",
+      "name": "Server",
+      "price": 150000,
+      "quantity": 0,
+      "available": false,
+      "selected": true
+    },
+    {
+      "id": "29",
+      "name": "iMac",
+      "price": 35000,
+      "quantity": 7,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "30",
+      "name": "Mac Pro",
+      "price": 130000,
+      "quantity": 1,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "31",
+      "name": "PS5",
+      "price": 8500,
+      "quantity": 4,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": "32",
+      "name": "Xbox One",
+      "price": 7500,
+      "quantity": 2,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "33",
+      "name": "Steam Deck",
+      "price": 7500,
+      "quantity": 3,
+      "available": true,
+      "selected": false
+    },
+    {
+      "name": "AYANEO",
+      "price": 8700,
+      "quantity": 5,
+      "available": true,
+      "selected": false,
+      "id": "34"
+    },
+    {
+      "id": "35",
+      "name": "Mobile Console",
+      "price": 5500,
+      "quantity": 9,
+      "available": true,
+      "selected": false
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "HUByngL"
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "WMnDqqH"
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "CeZWIgz"
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "dYtU4Xx"
+    },
+    {
+      "name": "teas",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "Le4n-iV"
+    },
+    {
+      "name": "sssss",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "1z2pbP4"
+    },
+    {
+      "name": "sssss",
+      "price": 0,
+      "quantity": 0,
+      "available": false,
+      "selected": false,
+      "id": "20EI5oa"
+    }
+  ]
+}
